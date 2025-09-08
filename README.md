@@ -18,3 +18,17 @@ It is a beginner-friendly program that simulates core ATM operations like:
    ```bash
    git clone https://github.com/ranakeshav16/Brainwave_Matrix_Intern.git
    cd Brainwave_Matrix_Intern
+
+
+## 🖥️ Example Output
+=== Welcome to Keshav's ATM ===
+1. Create Account
+2. Login
+3. Exit
+Enter your choice:
+
+
+## 🔮 Future Improvements
+- Save account data to a file or database  
+- Add PIN encryption  
+- Implement a GUI using Tkinter or Flask  
